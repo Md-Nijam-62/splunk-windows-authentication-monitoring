@@ -46,11 +46,14 @@ Security analysts can use this dashboard to monitor authentication activity on W
 ### Splunk Authentication Monitoring Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
+
 ### Windows Security Log Ingestion in Splunk
 ![Log Ingestion](screenshots/log_ingestion.png)
 
+
 ### Authentication Event Query Results
 ![Query Results](screenshots/query_results.png)
+
 
 ### Raw Windows Security Event Details
 ![Event Details](screenshots/event_details.png)
